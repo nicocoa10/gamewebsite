@@ -1,0 +1,16 @@
+{
+  "name": "designCourse",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d mynewlp"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://nicocoa10.github.io/gamewebsite",
+  "dependencies": {
+    "gh-pages": "^3.2.3"
+  }
+}
